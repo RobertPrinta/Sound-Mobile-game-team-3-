@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="EventFolder" id="{45a22793-7ab4-4e0b-9476-03521eeaf3ee}">
+	<object class="BankFolder" id="{fb409acd-3a59-40c5-a7a5-b6b8df5662f0}">
 		<property name="name">
-			<value>Arena</value>
+			<value>Ui</value>
 		</property>
 		<relationship name="folder">
-			<destination>{6971b6f4-3fdb-46c6-95cd-2ca63bfb7d49}</destination>
+			<destination>{5cc41b8b-cdf8-4185-a01f-455ceb4be54d}</destination>
 		</relationship>
 	</object>
 </objects>
